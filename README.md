@@ -16,7 +16,7 @@ Para el adecuado funcionamiento del complemento **eDoc_CR** se requiere lo sigui
 * Linux 4.18.5.
 * Apache HTTP Server 2.4.34.
 * MySQL 8.0.12, o MariaDB 10.3.9.
-* PHP 7.2.9
+* PHP 7.2.9.
 * webERP 4.15.
 
 ## Instalación
