@@ -1,5 +1,6 @@
 # eDoc_CR
-A webERP add-on to generate the costarrican tax authority electronic invoices, credit notes, debit notes and cash register receipts. **webERP** is a complete web based business management and accounting system that requires only a web-browser and pdf reader to use. See http://weberp.org/ .
+A webERP add-on to generate the costarrican tax authority electronic invoices, credit notes, debit notes and cash register receipts. **webERP** is a complete web based business management and accounting system that requires only a web-browser and pdf reader to use. See http://weberp.org/.
+
 Licenses:
 * GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007.
 * CC BY-NC-SA Verdorama 2017-11-10.
