@@ -28,6 +28,8 @@ Para instalar el complemento **eDoc_CR**:
 1. Complete la informacióm que se le pide.
 
 ## Configuración
-
+Se hace en dos partes:
+1. En la configuración EDI del cliente. Para más información, consulte el manual del webERP (http://www.weberp.org/weberp/ManualContents.php?ViewTopic=EDI).
+2. En la configuración particular del **eDoc_CR**.
 
 
