@@ -12,7 +12,7 @@ El **EDI_CR** es un complemento del **webERP**. Sirve para generar las facturas 
 El **webERP** es un sistema completo de gestión de empresas y contabilidad basado en la web que solo requiere un navegador web y un lector de PDF para su uso. Ver http://weberp.org/.
 
 ## Requisitos
-Para el adecuado funcionamiento del complemento **EDI_CR** se requiere lo siguiente:
+Para el adecuado funcionamiento del complemento **EDI_CR** se requiere lo siguiente, o su versión superior:
 * Linux 4.18.5.
 * Apache HTTP Server 2.4.34.
 * MySQL 8.0.12, o MariaDB 10.3.9.
@@ -28,6 +28,9 @@ Para instalar el complemento **EDI_CR**:
 1. Complete la informacióm que ahí se le pide.
 
 ## Configuración
+Se hace en dos partes:
+1. En la configuración EDI del cliente. Para más información, consulte el manual del **webERP** (http://www.weberp.org/weberp/ManualContents.php?ViewTopic=EDI).
+2. En la configuración particular del **EDI_CR**.
 
 
 
